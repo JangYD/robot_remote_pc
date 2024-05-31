@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="robot_stella" xmlns:xacro="http://ros.org/wiki/xacro">
+    <xacro:include filename="inertial_macros.xacro" />
+    <xacro:include filename="robot_core.xacro" />
+    <xacro:include filename="robot_stella.gazebo" />
+</robot>
